@@ -11,12 +11,12 @@ step by step process of gathering data from a web page or document using python 
 
 Using the code to process the following tasks
 
-4. Use the pyperclip module to cope and paste strings
+1. Use the pyperclip module to copy and paste strings
 
-5. Create two regexes, one for the matching phone numbers and the other for matching email addresses.
+2. Create two regexes, one for the matching phone numbers and the other for matching email addresses.
 
-6. Find all matches not just the first match, of both regexes
+3. Find all matches not just the first match, of both regexes
 
-7. Format the matched strings into a single string to paste 
+4. Format the matched strings into a single string to paste 
 
-8. Display a message if no matches were found in the text
+5. Display a message if no matches were found in the text
